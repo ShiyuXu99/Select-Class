@@ -1,6 +1,4 @@
-# Assignment: React 2 (2 Points Total)
-
-This assignment is meant to introduce you to more features of React, e.g. states, props, more modularized components etc... This project is the 2nd of a 4 part React project. 
+React 
 
 ## Overview
 
@@ -42,6 +40,11 @@ The course data is being fetched from `https://mysqlcs639.cs.wisc.edu:5000/class
 }
 ```
 
+Functions:
+
+### Search Courses
+
+### Suggestion for classes
 
 ### Add to cart
 
